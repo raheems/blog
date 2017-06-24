@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogdown on A Hugo website</title>
+    <link>/categories/blogdown/index.xml</link>
+    <description>Recent content in Blogdown on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Testing R Markdown </title>
+      <link>/2017/06/24/testing-r-markdown/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/24/testing-r-markdown/</guid>
+      <description>&lt;p&gt;Hello this is Enayetur Raheem. recommended workflow, we can deploy the website by using Netlify. “Log in onto &lt;a href=&#34;https://www.netlify.com&#34; class=&#34;uri&#34;&gt;https://www.netlify.com&lt;/a&gt; (you can use a GitHub account if you have one).” Click “Site” after logging into netlify, we can see the following instruction:&lt;/p&gt;
+&lt;p&gt;recommended workflow, we can deploy the website by using Netlify. “Log in onto &lt;a href=&#34;https://www.netlify.com&#34; class=&#34;uri&#34;&gt;https://www.netlify.com&lt;/a&gt; (you can use a GitHub account if you have one).” Click “Site” after logging into netlify, we can see the following instruction:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+---
+title: 'Testing R Markdown '
+author: Enayetur Raheem
+date: '2017-06-24'
+slug: testing-r-markdown
+categories:
+  - blogdown
+tags: []
+---
+
+Hello this is Enayetur Raheem. recommended workflow, we can deploy the website by using Netlify. “Log in onto https://www.netlify.com (you can use a GitHub account if you have one).” Click “Site” after logging into netlify, we can see the following instruction:
+
+recommended workflow, we can deploy the website by using Netlify. “Log in onto https://www.netlify.com (you can use a GitHub account if you have one).” Click “Site” after logging into netlify, we can see the following instruction:
+
